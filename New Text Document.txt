@@ -1,0 +1,7 @@
+make configuration between local and global github risporitory
+
+from website git-scm.com
+1-$ git config --global username (name)
+2- $ git config --global email (email)
+
+
